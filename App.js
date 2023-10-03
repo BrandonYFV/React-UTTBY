@@ -3,7 +3,6 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Login from './views/Login';
 import Registro from './views/Register';
 
-
 const Stack = createNativeStackNavigator();
 
 

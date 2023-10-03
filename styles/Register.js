@@ -63,5 +63,11 @@ export const RegisterStyle = StyleSheet.create({
       subTittle:{
         fontSize : 12 ,
         color: "#ccc"
-      }
+      },
+      profilePic:{
+      width: 100, 
+      height: 100,
+      margin: 10,
+      borderRadius:30,
+    }
 })
